@@ -2,4 +2,5 @@
 IranCityData
 
 # List of provinces
-* East Azerbaijan [In progress]
+* East Azerbaijan [Completed]
+* Alborz [Completed]
